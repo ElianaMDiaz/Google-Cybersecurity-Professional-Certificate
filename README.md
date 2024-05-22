@@ -1,5 +1,3 @@
-# Eliana Diaz's Cybersecurity Portfolio
-
 ## About Me
 
 I am a highly motivated and detail-oriented cybersecurity professional with a strong background in computer science, currently pursuing a Bachelor of Science in Computer Science with a concentration in Cybersecurity at The University of Texas at San Antonio. With hands-on experience in IT support and space science research, I have developed a solid foundation in programming, incident response, and vulnerability management. I hold the Google Cybersecurity Professional Certificate and am actively working towards obtaining the CompTIA Security+ certification.
